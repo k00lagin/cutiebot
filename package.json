@@ -1,0 +1,22 @@
+{
+  "name": "cutiebot",
+  "version": "1.0.0",
+  "description": "A peak security password generator Telegram bot that provides a super secure password.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "password",
+    "generator"
+  ],
+  "author": "k00lagin",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
