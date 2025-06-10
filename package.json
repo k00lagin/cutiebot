@@ -4,7 +4,8 @@
   "description": "A peak security password generator Telegram bot that provides a super secure password.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "build": "# No build step needed"
   },
   "keywords": [
     "telegram",
