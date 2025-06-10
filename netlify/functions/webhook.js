@@ -48,7 +48,7 @@ export const handler = async (event) => {
             return { statusCode: 200, body: 'OK' };
         }
 
-        const secret_token = event.headers.get("X-Telegram-Bot-Api-Secret-Token");
+        const secret_token = event.headers["x-telegram-bot-api-secret-token"];
         if (secret_token !== process.env.TELEGRAM_WEBHOOK_SECRET_TOKEN) {
             return { statusCode: 200, body: 'OK' };
         }
