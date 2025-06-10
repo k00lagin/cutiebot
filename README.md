@@ -1,6 +1,8 @@
 # CutieBot
 
-A peak security password generator Telegram bot that provides a super secure password.
+Yeah, sure, another password generator. Oh wait, this one's a bottom cutie serving up peak security through a Telegram chat. My bad.
+
+![image](https://github.com/user-attachments/assets/03ffb286-b0d3-4900-a38c-25afc2931da3)
 
 ## How to Use
 
